@@ -196,9 +196,10 @@ export default {
 }
 
 .main-operation {
-	display: flex;
-	justify-content: center;
-	margin: 20px 0;
+    display: flex;
+    justify-content: center;
+    margin: 20px 0;
+    margin-left: 68%;
 }
 
 .main-operation button {
